@@ -17,3 +17,9 @@ $ atom .
 
 ## Usage
 Open index.html in your browser and uncomment the bottom scripts, one at a time. They all do the same thing but are written using different javascript concepts.
+
+###Google Chrome only supports http or https request so it wont work if loading from localhost.
+
+You must upload it online otherwise, here is a link:
+
+http://asynchronous-fun.bitballoon.com
